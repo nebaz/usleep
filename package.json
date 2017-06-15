@@ -1,6 +1,6 @@
 {
   "name": "usleep",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "main": "src/index.js",
   "description": "Add sleep functions: sleep(), msleep(), usleep()",
   "homepage": "http://github.com/nebaz/usleep",
